@@ -1,4 +1,4 @@
-# TP12 - Fichiers et flux I/O
+# TP12
 
 # Exercice 1 - Lecture de fichier texte (FileReader / BufferedReader)
 
